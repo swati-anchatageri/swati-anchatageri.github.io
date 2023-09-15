@@ -43,7 +43,7 @@ function SendMSG(e) {
     // setTimeout(() => {
     //   thank.style.display = "none";
     // }, 2000);
-    alert("message sent")
+    alert("Email Sent Successfully")
   }
   
   function failure() {
@@ -52,6 +52,6 @@ function SendMSG(e) {
     // setTimeout(() => {
     //   fail.style.display = "none";
     // }, 2000);
-    alert("message failed")
+    alert("Email Failed")
   }
   
